@@ -108,7 +108,7 @@ public class Main {
             System.out.println(one+ "большее число");}
             else if(two>one && two>free) {System.out.println( two + " большее число");}
         else if(two>one && two>free) {System.out.println( two + " большее число");}
-        else if(free>one && free>two) {System.out.println( free + " большее число");}
+        else if(free>one && free>two) {System.out.println( free + " большее число.");}
         
     }
 }}}
